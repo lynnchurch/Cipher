@@ -5,7 +5,7 @@
 ![demo](images/demo.gif)
 
 # APK下载地址
-![cipher.apk](https://download.csdn.net/download/lynnchurch/11264980)
+[cipher.apk](https://download.csdn.net/download/lynnchurch/11264980)
 
 # Licenses
 
