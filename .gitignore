@@ -13,3 +13,4 @@
 .externalNativeBuild
 signing.gradle
 cipher.jks
+.idea
