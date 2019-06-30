@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">暗号</string>
+    <string name="plaintext_ciphetext">明文/密文</string>
+    <string name="password">密码</string>
+    <string name="encrypt">加密</string>
+    <string name="decrypt">解密</string>
+    <string name="please_input_plaintext_or_ciphetext">请输入明文或密文</string>
+    <string name="please_input_password">请输入密码</string>
+    <string name="password_is_wrong">密码错误</string>
+    <string name="ciphetext_style">密文样式</string>
+    <string name="ciphetext_style_hint">密文样式：</string>
+    <string-array name="ciphetext_style">
+
+        <item>16进制</item>
+
+        <item>emoji</item>
+
+        <item>特殊符号</item>
+
+    </string-array>
+
+</resources>
